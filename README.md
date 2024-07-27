@@ -8,6 +8,10 @@
 
 ![webp version](infographicenergy.webp)
 
+## avif
+
+![avif version](infographicenergy.avif)
+
 ## svg
 
 ![svg version](infographicenergy.svg)
